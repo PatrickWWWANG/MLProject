@@ -2,6 +2,7 @@ Resource/
 HMRecommendations/articles.csv
 HMRecommendations/customers.csv
 HMRecommendations/transactions_train.csv
+FaissSearchEngine/wiki2019zhSearchEngine/data/
 
 __pycache__/
 *.py[cod]
